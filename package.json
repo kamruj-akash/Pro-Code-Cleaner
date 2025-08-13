@@ -3,6 +3,9 @@
   "displayName": "Pro-Code Cleaner",
   "description": "Clean your JavaScript/TypeScript code for production with a single command!",
   "version": "0.0.1",
+  "publisher": "kamruj-akash",
+  "icon": "logo.png",
+  "url": "https://github.com/kamruj-akash/Pro-Code-Cleaner.git",
   "engines": {
     "vscode": "^1.85.0"
   },

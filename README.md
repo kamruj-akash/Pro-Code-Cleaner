@@ -57,7 +57,7 @@ We are constantly working to make Pro-Code Cleaner even better. Here are some fe
 
 ## 🤝 Contributing
 
-Found a bug or have a feature request? We'd love to hear from you! Please open an issue on our [GitHub Repository](https://github.com/kamruj-akash/pro-code-cleaner).
+Found a bug or have a feature request? We'd love to hear from you! Please open an issue on our [GitHub Repository](https://github.com/kamruj-akash/Pro-Code-Cleaner).
 
 ---
 
